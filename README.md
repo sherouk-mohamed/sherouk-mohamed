@@ -10,23 +10,27 @@
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
+---
 
+- Currently building: `[current project]`
+- Recently read: `[a paper you actually liked]`
+- Interested in: `[e.g. NLP, computer vision, model efficiency — your actual focus]`
 
 ---
 
 ### Featured Project
-  
+
 **[Project Name](link)**
 `[One or two honest sentences: the problem it solves, the approach, and a real result or metric if you have one.]`
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherouk-mohamed&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherouk-mohamed&theme=radical&hide_border=true" width="48%">
 </div>
