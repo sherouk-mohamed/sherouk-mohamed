@@ -23,7 +23,4 @@
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherouk-mohamed&theme=radical&hide_border=true" width="48%">
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%"> <img src="https://streak-stats.demolab.com/?user=sherouk-mohamed&theme=radical&hide_border=true" width="48%"> </div>
