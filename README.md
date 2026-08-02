@@ -20,7 +20,6 @@
 ### Featured Project
 
 **[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)**
-`[One line: what it does, the approach (e.g. CNN on hand-landmark data), and a real result like accuracy % if you have one.]`
 
 ---
 
