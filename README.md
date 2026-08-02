@@ -22,7 +22,6 @@
 ### Featured Project
 
 **[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)**
-`[One or two honest sentences: the problem it solves, the approach, and a real result or metric if you have one.]`
 
 ---
 
