@@ -15,18 +15,12 @@
 
 </div>
 
----
 
-I'm an AI/ML engineer and researcher who spends most days training models, most nights wondering why the loss curve looks like that, and the rest of the time actually fixing it. I care about work that's rigorous enough to trust and clear enough to explain.
-
-- 🧪 Currently building: `[current project]`
-- 📎 Recently read: `[a paper you actually liked]`
-- 🎯 Interested in: `[e.g. NLP, computer vision, model efficiency — your actual focus]`
 
 ---
 
 ### Featured Project
-
+  
 **[Project Name](link)**
 `[One or two honest sentences: the problem it solves, the approach, and a real result or metric if you have one.]`
 
