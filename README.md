@@ -50,8 +50,8 @@ An incident lands in **ServiceNow** → an LLM checks it against a small knowled
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherouk-mohamed&layout=compact&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" height="165"/>
+<img src="https://github.com/sherouk-mohamed/sherouk-mohamed/raw/main/generated/overview.svg" width="45%"/>
+<img src="https://github.com/sherouk-mohamed/sherouk-mohamed/raw/main/generated/languages.svg" width="45%"/>
 
 <br><br>
 
