@@ -54,13 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sherouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherouk-mohamed&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🌟 Featured Projects
 
 **[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)** — Python
