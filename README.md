@@ -1,71 +1,62 @@
-# Hello world, I'm **Sherouk Kandil** 👋✨
+<div align="center">
 
-**AI/ML Engineer** • **Computer Vision & Signal Processing** • **Agentic AI**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Sherouk%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherouk-kandil-8968a4349/)
-[![](https://img.shields.io/badge/GitHub-sherouk--mohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherouk-mohamed)
-[![](https://img.shields.io/badge/Email-sheroukmohamed246%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheroukmohamed246@gmail.com)
+<a href="https://www.linkedin.com/in/sherouk-kandil-8968a4349/">
+  <img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sheroukmohamed246@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+models+that+see+and+decide;Computer+Vision+%7C+Agentic+AI;Turning+webcam+frames+into+ASL+letters;Turning+tickets+into+decisions" />
 
-## 🚀 About Me
+</div>
 
-- 🧠 **AI/ML Engineer** — teaching machines to guess less badly
-- 👁️ **Computer vision**: real-time recognition systems (ASL, hand landmarks, video classification)
-- 🤖 **Agentic AI**: LLM-powered decision flows wired into real systems (FastAPI + Gemini + ServiceNow)
-- 📚 Always learning: new architectures, better data pipelines, cleaner training loops
+<br>
 
----
+## ⚡ What I'm into
 
-## 🧰 Tech Toolbox (What I actually use)
+I like the moments where a model has to make a judgment call in real time — is this hand shape an "A" or mid-transition to "B"? Should this incident be escalated or answered? That's the thread through most of what I build: perception feeding straight into a decision, no human in the loop until the model gets unsure.
 
-### Languages
+<br>
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🔥 Things I've built
 
-### ML / AI & Data
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+### 🤟 [asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)
 
-### Agentic AI / Backend
+Real-time ASL recognition that reads a **rolling window of frames**, not a single snapshot — a fine-tuned **3D ResNet-18** classifies MediaPipe hand landmarks *as the sign is happening*.
 
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![](https://img.shields.io/badge/ServiceNow-039BE5?style=flat-square&logo=servicenow&logoColor=white)
+`Python` `PyTorch` `MediaPipe` `OpenCV`
 
-### Tools / Services
+</td>
+<td width="50%" valign="top">
 
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 🤖 [Agentic-Incident-Flow-on-PDI](https://github.com/sherouk-mohamed/Agentic-Incident-Flow-on-PDI)
 
----
+An incident lands in **ServiceNow** → an LLM checks it against a small knowledge base → decides **respond**, **ask**, or **escalate** → writes the verdict straight back to the ticket.
 
-## ✨ Highlights
+`Python` `FastAPI` `Gemini API`
 
-| **👁️ Computer Vision** | **🤖 Agentic Systems** |
-|---|---|
-| MediaPipe • OpenCV • 3D ResNet fine-tuning | LLM-driven decisioning wired into live ticketing systems |
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 🌟 Featured Projects
+<div align="center">
 
-**[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)** — Python
-Real-time ASL sign language recognition using a fine-tuned 3D ResNet-18, MediaPipe hand detection, and a temporal sliding window approach.
+<img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherouk-mohamed&layout=compact&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" height="165"/>
 
-**[Agentic-Incident-Flow-on-PDI](https://github.com/sherouk-mohamed/Agentic-Incident-Flow-on-PDI)** — Python
-An agentic pipeline where new ServiceNow incidents are triaged automatically: a FastAPI service asks Gemini to decide *respond / ask / escalate* against a fixed knowledge base, then writes the decision back to the ticket.
+<br><br>
 
----
+*Got a weird ML idea? I want to hear it.*
 
-## 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" width="100%"/>
 
-- 💻 GitHub: [sherouk-mohamed](https://github.com/sherouk-mohamed)
-- 💼 LinkedIn: [in/sherouk-kandil-8968a4349](https://www.linkedin.com/in/sherouk-kandil-8968a4349/)
-- 📧 Email: [sheroukmohamed246@gmail.com](mailto:sheroukmohamed246@gmail.com)
+</div>
