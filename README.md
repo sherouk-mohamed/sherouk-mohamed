@@ -50,11 +50,6 @@ An incident lands in **ServiceNow** → an LLM checks it against a small knowled
 
 <div align="center">
 
-<img src="https://github.com/sherouk-mohamed/sherouk-mohamed/raw/main/generated/overview.svg" width="45%"/>
-<img src="https://github.com/sherouk-mohamed/sherouk-mohamed/raw/main/generated/languages.svg" width="45%"/>
-
-<br><br>
-
 *Got a weird ML idea? I want to hear it.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=100&section=footer" width="100%"/>
