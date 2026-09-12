@@ -1,4 +1,4 @@
-# Hello world, I'm **Sherouk Mohamed** 👋✨
+# Hello world, I'm **Sherouk Kandil** 👋✨
 
 **AI/ML Engineer** • **Computer Vision & Signal Processing** • **Agentic AI**
 
