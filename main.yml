@@ -1,0 +1,28 @@
+name: Generate GitHub stats images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # runs once a day
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: sherouk-mohamed
+          exclude_repos: ""
+          exclude_langs: ""
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+
+      - name: Commit and push generated images
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/*
+          git commit -m "Update generated stats images" || echo "No changes to commit"
+          git push
