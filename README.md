@@ -1,26 +1,78 @@
-<div align="center">
+# Hello world, I'm **Sherouk Mohamed** 👋✨
 
-# Sherouk Mohamed
-### AI/ML Engineer & Researcher — teaching machines to guess less badly
+**AI/ML Engineer** • **Computer Vision & Signal Processing** • **Agentic AI**
 
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-
-<br>
-
-<a href="https://www.linkedin.com/in/sherouk-kandil-8968a4349/"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sheroukmohamed246@gmail.com"><img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherouk-kandil-8968a4349/)
+[![](https://img.shields.io/badge/GitHub-sherouk--mohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherouk-mohamed)
+[![](https://img.shields.io/badge/Email-sheroukmohamed246%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheroukmohamed246@gmail.com)
 
 ---
 
-### Featured Project
+## 🚀 About Me
 
-**[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)**
+- 🧠 **AI/ML Engineer** — teaching machines to guess less badly
+- 👁️ **Computer vision**: real-time recognition systems (ASL, hand landmarks, video classification)
+- 🤖 **Agentic AI**: LLM-powered decision flows wired into real systems (FastAPI + Gemini + ServiceNow)
+- 📚 Always learning: new architectures, better data pipelines, cleaner training loops
 
 ---
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%"> <img src="https://streak-stats.demolab.com/?user=sherouk-mohamed&theme=radical&hide_border=true" width="48%"> </div>
+## 🧰 Tech Toolbox (What I actually use)
+
+### Languages
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML / AI & Data
+
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+### Agentic AI / Backend
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/ServiceNow-039BE5?style=flat-square&logo=servicenow&logoColor=white)
+
+### Tools / Services
+
+![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+## ✨ Highlights
+
+| **👁️ Computer Vision** | **🤖 Agentic Systems** |
+|---|---|
+| MediaPipe • OpenCV • 3D ResNet fine-tuning | LLM-driven decisioning wired into live ticketing systems |
+
+---
+
+## 📈 GitHub Stats
+
+![Sherouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherouk-mohamed&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherouk-mohamed&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌟 Featured Projects
+
+**[asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)** — Python
+Real-time ASL sign language recognition using a fine-tuned 3D ResNet-18, MediaPipe hand detection, and a temporal sliding window approach.
+
+**[Agentic-Incident-Flow-on-PDI](https://github.com/sherouk-mohamed/Agentic-Incident-Flow-on-PDI)** — Python
+An agentic pipeline where new ServiceNow incidents are triaged automatically: a FastAPI service asks Gemini to decide *respond / ask / escalate* against a fixed knowledge base, then writes the decision back to the ticket.
+
+---
+
+## 🤝 Let's Connect
+
+- 💻 GitHub: [sherouk-mohamed](https://github.com/sherouk-mohamed)
+- 💼 LinkedIn: [in/sherouk-kandil-8968a4349](https://www.linkedin.com/in/sherouk-kandil-8968a4349/)
+- 📧 Email: [sheroukmohamed246@gmail.com](mailto:sheroukmohamed246@gmail.com)
