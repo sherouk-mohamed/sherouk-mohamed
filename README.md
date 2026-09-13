@@ -15,7 +15,7 @@
 
 <br>
 
-## ⚡ What I'm into
+##  What I'm into
 
 I like the moments where a model has to make a judgment call in real time — is this hand shape an "A" or mid-transition to "B"? Should this incident be escalated or answered? That's the thread through most of what I build: perception feeding straight into a decision, no human in the loop until the model gets unsure.
 
