@@ -21,13 +21,13 @@ I like the moments where a model has to make a judgment call in real time — is
 
 <br>
 
-## 🔥 Things I've built
+## Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤟 [asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)
+### [asl-sign-recognition](https://github.com/sherouk-mohamed/asl-sign-recognition)
 
 Real-time ASL recognition that reads a **rolling window of frames**, not a single snapshot — a fine-tuned **3D ResNet-18** classifies MediaPipe hand landmarks *as the sign is happening*.
 
@@ -36,7 +36,7 @@ Real-time ASL recognition that reads a **rolling window of frames**, not a singl
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Agentic-Incident-Flow-on-PDI](https://github.com/sherouk-mohamed/Agentic-Incident-Flow-on-PDI)
+### [Agentic-Incident-Flow-on-PDI](https://github.com/sherouk-mohamed/Agentic-Incident-Flow-on-PDI)
 
 An incident lands in **ServiceNow** → an LLM checks it against a small knowledge base → decides **respond**, **ask**, or **escalate** → writes the verdict straight back to the ticket.
 
