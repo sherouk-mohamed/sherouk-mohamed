@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/-Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;Then+teaching+them+to+act+%E2%9A%A1" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=teach+machines+to+see;and+act" />
 
 <br>
 
